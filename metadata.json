@@ -1,0 +1,7 @@
+{
+  "name": "Mawadda Niger - Mariage Musulman & Conseils Conjugaux",
+  "description": "Plateforme SaaS de mise en relation matrimoniale halal et d'accompagnement conjugal selon le Coran et la Sunnah pour les musulmans au Niger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
